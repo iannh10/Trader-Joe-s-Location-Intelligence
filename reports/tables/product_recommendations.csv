@@ -1,0 +1,49 @@
+location_type,zip_code,tj_probability,rank,product,competitor_mentions
+Top 5 New Locations,92101,0.9997,1,Organic & Natural Foods,22
+Top 5 New Locations,92101,0.9997,2,"Wine, Beer & Spirits",15
+Top 5 New Locations,92101,0.9997,3,Fresh Produce & Flowers,13
+Top 5 New Locations,92101,0.9997,4,Frozen Meals & Convenience,11
+Top 5 New Locations,92101,0.9997,5,Premium Snacks & Nuts,7
+Top 5 New Locations,91505,0.9911,1,Fresh Produce & Flowers,8
+Top 5 New Locations,91505,0.9911,2,Organic & Natural Foods,2
+Top 5 New Locations,91505,0.9911,3,"Wine, Beer & Spirits",2
+Top 5 New Locations,91505,0.9911,4,Ready-to-Eat & Prepared Foods,1
+Top 5 New Locations,91505,0.9911,5,Bakery & Bread,1
+Top 5 New Locations,95014,0.9886,1,Organic & Natural Foods,9
+Top 5 New Locations,95014,0.9886,2,Fresh Produce & Flowers,7
+Top 5 New Locations,95014,0.9886,3,Frozen Meals & Convenience,3
+Top 5 New Locations,95014,0.9886,4,Premium Snacks & Nuts,1
+Top 5 New Locations,95014,0.9886,5,Coffee & Tea,1
+Top 5 New Locations,92618,0.9876,1,Organic & Natural Foods,7
+Top 5 New Locations,92618,0.9876,2,Frozen Meals & Convenience,7
+Top 5 New Locations,92618,0.9876,3,Fresh Produce & Flowers,4
+Top 5 New Locations,92618,0.9876,4,Premium Snacks & Nuts,3
+Top 5 New Locations,92618,0.9876,5,Ready-to-Eat & Prepared Foods,2
+Top 5 New Locations,90066,0.9876,1,Organic & Natural Foods,5
+Top 5 New Locations,90066,0.9876,2,Fresh Produce & Flowers,4
+Top 5 New Locations,90066,0.9876,3,Premium Snacks & Nuts,3
+Top 5 New Locations,90066,0.9876,4,Frozen Meals & Convenience,3
+Top 5 New Locations,90066,0.9876,5,Bakery & Bread,2
+Top 5 Test Locations,94501,0.9727,1,Fresh Produce & Flowers,13
+Top 5 Test Locations,94501,0.9727,2,"Wine, Beer & Spirits",6
+Top 5 Test Locations,94501,0.9727,3,Organic & Natural Foods,4
+Top 5 Test Locations,94501,0.9727,4,Premium Snacks & Nuts,3
+Top 5 Test Locations,94501,0.9727,5,Seasonal & Holiday Items,2
+Top 5 Test Locations,92130,0.9724,1,Fresh Produce & Flowers,6
+Top 5 Test Locations,92130,0.9724,2,Organic & Natural Foods,5
+Top 5 Test Locations,92130,0.9724,3,Bakery & Bread,2
+Top 5 Test Locations,92130,0.9724,4,Premium Snacks & Nuts,1
+Top 5 Test Locations,92130,0.9724,5,Ready-to-Eat & Prepared Foods,1
+Top 5 Test Locations,90505,0.9433,1,Fresh Produce & Flowers,11
+Top 5 Test Locations,90505,0.9433,2,Organic & Natural Foods,6
+Top 5 Test Locations,90505,0.9433,3,Frozen Meals & Convenience,4
+Top 5 Test Locations,90505,0.9433,4,Ready-to-Eat & Prepared Foods,3
+Top 5 Test Locations,90505,0.9433,5,"Wine, Beer & Spirits",1
+Top 5 Test Locations,92648,0.9337,1,Fresh Produce & Flowers,10
+Top 5 Test Locations,92648,0.9337,2,Organic & Natural Foods,6
+Top 5 Test Locations,92648,0.9337,3,"Wine, Beer & Spirits",5
+Top 5 Test Locations,92648,0.9337,4,Health & Supplements,3
+Top 5 Test Locations,92648,0.9337,5,Frozen Meals & Convenience,3
+Top 5 Test Locations,90275,0.9333,1,Fresh Produce & Flowers,5
+Top 5 Test Locations,90275,0.9333,2,Organic & Natural Foods,1
+Top 5 Test Locations,90275,0.9333,3,Health & Supplements,1

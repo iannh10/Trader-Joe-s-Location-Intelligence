@@ -1,0 +1,43 @@
+store_name,street,city,state,zip_code,phone,store_url,latitude,longitude,split
+Alameda (109),2217 South Shore Ctr,Alameda,CA,94501,510-769-5450,https://locations.traderjoes.com/ca/alameda/109/,37.7577613,-122.2514016,test
+Castro Valley (84),22224 Redwood Road,Castro Valley,CA,94546,510-538-2738,https://locations.traderjoes.com/ca/castro-valley/84/,37.6854582,-122.0730356,test
+Chula Vista (120),"878 Eastlake Pkwy, Ste 810",Chula Vista,CA,91914,619-656-5370,https://locations.traderjoes.com/ca/chula-vista/120/,,,test
+Claremont (214),475 W Foothill Blvd,Claremont,CA,91711,909-625-8784,https://locations.traderjoes.com/ca/claremont/214/,34.1073555,-117.7219566,test
+Encinitas (25),"115 N El Camino Real, Ste A",Encinitas,CA,92024,760-634-2114,https://locations.traderjoes.com/ca/encinitas/25/,,,test
+Larkspur (235),2052 Redwood Hwy,Greenbrae,CA,94904,415-945-7955,https://locations.traderjoes.com/ca/greenbrae/235/,37.937841,-122.5149545,test
+Huntington Beach (47),18681 Main St,Huntington Beach,CA,92648,714-848-9640,https://locations.traderjoes.com/ca/huntington-beach/47/,33.6924689,-117.9925205,test
+Huntington Harbour (244),16821 Algonquin St,Huntington Beach,CA,92649,714-846-7307,https://locations.traderjoes.com/ca/huntington-beach/244/,33.7206847,-118.0501673,test
+Irvine - Walnut Village Ctr (37),14443 Culver Dr,Irvine,CA,92604,949-857-8108,https://locations.traderjoes.com/ca/irvine/37/,33.706157,-117.7884259,test
+La Habra (5),"2101 W. Imperial Hwy, Suite A",La Habra,CA,90631,562-266-1428,https://locations.traderjoes.com/ca/la-habra/5/,,,test
+La Jolla (20),8657 Villa la Jolla Dr,La Jolla,CA,92037,858-546-8629,https://locations.traderjoes.com/ca/la-jolla/20/,32.8649874,-117.2310731,test
+Lafayette (115),3649 Mt Diablo Blvd,Lafayette,CA,94549,925-299-9344,https://locations.traderjoes.com/ca/lafayette/115/,37.8902512,-122.1269225,test
+Hollywood (206),1600 N Vine St,Los Angeles,CA,90028,323-856-0689,https://locations.traderjoes.com/ca/los-angeles/206/,,,test
+Olympic Blvd (215),11755 Olympic Blvd,Los Angeles,CA,90064,310-477-5949,https://locations.traderjoes.com/ca/los-angeles/215/,34.0337202,-118.4492798,test
+West Los Angeles (7),10850 National Blvd,Los Angeles,CA,90064,310-470-1917,https://locations.traderjoes.com/ca/los-angeles/7/,34.030118,-118.421648,test
+Mission Viejo (126),25410 Marguerite Pkwy,Mission Viejo,CA,92692,949-581-5638,https://locations.traderjoes.com/ca/mission-viejo/126/,33.5925609,-117.658887,test
+Modesto (9),3250 Dale Road,Modesto,CA,95356,209-491-0445,https://locations.traderjoes.com/ca/modesto/9/,37.6879386,-121.0494206,test
+Morgan Hill (202),17035 Laurel Rd,Morgan Hill,CA,95037,408-778-6409,https://locations.traderjoes.com/ca/morgan-hill/202/,37.1311833,-121.6382589,test
+Novato (198),7514 Redwood Blvd,Novato,CA,94945,415-898-9359,https://locations.traderjoes.com/ca/novato/198/,38.1117887,-122.5679241,test
+Oceanside (22),2570 Vista Way,Oceanside,CA,92054,760-433-9994,https://locations.traderjoes.com/ca/oceanside/22/,33.1840258,-117.3318769,test
+Mall of Orange (46),2114 N Tustin St,Orange,CA,92865,714-283-5697,https://locations.traderjoes.com/ca/orange/46/,33.8233576,-117.8364411,test
+Palmdale (185),39507 10th St W,Palmdale,CA,93551,661-947-2890,https://locations.traderjoes.com/ca/palmdale/185/,34.6003065,-118.14914,test
+Palo Alto (207),855 El Camino Real,Palo Alto,CA,94301,650-327-7018,https://locations.traderjoes.com/ca/palo-alto/207/,37.4384554,-122.1576876,test
+Rancho Palos Verdes (233),31176 Hawthorne Blvd,Rancho Palos Verdes,CA,90275,310-544-1727,https://locations.traderjoes.com/ca/rancho-palos-verdes/233/,33.7493322,-118.4066849,test
+Rancho Palos Verdes - S. Western Ave. (57),28901 S Western Ave,Rancho Palos Verdes,CA,90275,310-832-1241,https://locations.traderjoes.com/ca/rancho-palos-verdes/57/,33.7559816,-118.3114689,test
+Riverside (15),6225 Riverside Plaza,Riverside,CA,92506,951-781-2378,https://locations.traderjoes.com/ca/riverside/15/,33.9539876,-117.3906928,test
+Del Mar (223 ),13480 Highlands Place,San Diego,CA,92130,858-755-7130,https://locations.traderjoes.com/ca/san-diego/223/,32.9611584,-117.1913706,test
+Mission Valley (222),1072 Camino Del Rio North,San Diego,CA,92108,619-297-0749,https://locations.traderjoes.com/ca/san-diego/222/,32.7661721,-117.1552299,test
+San Diego - Point Loma (188),2401 Truxtun Rd,San Diego,CA,92106,619-758-9272,https://locations.traderjoes.com/ca/san-diego/188/,32.736068,-117.2173712,test
+San Mateo - Grant St (67),,San Mateo,CA,94402,650-570-6140,https://locations.traderjoes.com/ca/san-mateo/67/,37.6535403,-122.4168664,test
+San Rafael (61),337 3rd St,San Rafael,CA,94901,415-454-9530,https://locations.traderjoes.com/ca/san-rafael/61/,37.969678,-122.5165256,test
+Valencia (13),26517 Bouquet Canyon Rd,Santa Clarita,CA,91350,661-263-3796,https://locations.traderjoes.com/ca/santa-clarita/13/,34.4284056,-118.5381487,test
+Santa Monica (256),500 Broadway,Santa Monica,CA,90401,310-912-6877,https://locations.traderjoes.com/ca/santa-monica/256/,34.0155924,-118.4919687,test
+Santa Monica (6),3212 Pico Blvd,Santa Monica,CA,90405,310-581-0253,https://locations.traderjoes.com/ca/santa-monica/6/,34.0263503,-118.4558412,test
+Stockton (76),6535 Pacific Ave,Stockton,CA,95207,209-951-7597,https://locations.traderjoes.com/ca/stockton/76/,38.0091681,-121.3226915,test
+Toluca Lake (54),10130 Riverside Dr,Toluca Lake,CA,91602,818-762-2787,https://locations.traderjoes.com/ca/toluca-lake/54/,34.1519441,-118.3519203,test
+Torrance - Rolling Hills Plaza (29),2545 Pacific Coast Hwy,Torrance,CA,90505,310-326-9520,https://locations.traderjoes.com/ca/torrance/29/,33.7907436,-118.3300923,test
+Ventura (45),1795 S. Victoria Ave,Ventura,CA,93003,805-650-9977,https://locations.traderjoes.com/ca/ventura/45/,34.2572617,-119.2117413,test
+Ventura - Midtown (218),"103 S Mills Rd, Ste 104",Ventura,CA,93003,805-658-2664,https://locations.traderjoes.com/ca/ventura/218/,,,test
+West Hollywood (173),8611 Santa Monica Blvd,West Hollywood,CA,90069,310-657-0152,https://locations.traderjoes.com/ca/west-hollywood/173/,34.0880565,-118.3796094,test
+Whittier (48),15025 E Whittier Blvd,Whittier,CA,90603,562-698-1642,https://locations.traderjoes.com/ca/whittier/48/,,,test
+Yucaipa (268),31545 Yucaipa Boulevard,Yucaipa,CA,92399,909-951-6154,https://locations.traderjoes.com/ca/yucaipa/268/,34.0291372,-117.1153248,test
